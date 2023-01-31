@@ -1,70 +1,14 @@
-# Getting Started with Create React App
+# 유튜브 클론코딩 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React 강의 보면서 유튜브 클론코딩을 해봤다. vue개발자였고 react는 처음임 
 
-## Available Scripts
+[내가 만든 사이트 링크](https://cute-centaur-676b37.netlify.app/)
 
-In the project directory, you can run:
+## 배운것 
+React, React Router, React Query, tailwind css, netlify
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 후기 
+- api 개발 방법을 배움. vue와 비슷하나, 이전 개발방법과 다르게 클래스를 활용해보면서 mock용과 배포용 api를 구분하여 개발해봄
+- tailwind css 굉장히 편한거 같다. 개발속도가 빠르다. 유지보수하는 법은 고민해봐야겠다. (미리 컨벤션 협의등)
+- react query를 배움 vuex로 상태관리를 했지만 서비스가 커지면 보일러플레이트도 많아졌고 잘 쪼개지 않으면 유지보수하기가 어려웠다. react query를 사용했을때 컴포넌트 내부에서 바로 서버 데이터 처리를 하니 편했고 캐싱 기능까지 있어 편했다. 이밖에 다양한 기능들이 있는데 더 알아봐야겠다. 
+- react 재밌음
